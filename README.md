@@ -76,7 +76,7 @@ A production-ready Behavior-Driven Development framework using structured step-d
 
 ## 🤝 Let's Collaborate!
 
-* **LinkedIn:** [https://linkedin.com/in/divij-mothe](https://linkedin.com/in/divij-mothe)
+* **LinkedIn:** [https://www.linkedin.com/in/divij-m/](https://www.linkedin.com/in/divij-m/)
 * **GitHub:** [https://github.com/divijqa](https://github.com/divijqa)
 
 *⭐ Designed with precision to engineer scalable quality assurance ecosystems.*
