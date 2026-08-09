@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Divij Mothe 
 ### Lead Software Development Engineer in Test (SDET) | Automation Architect 🚀
 
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+
 An Enterprise QA Architect with 8+ years of technical experience engineering high-throughput automation infrastructures across Financial Services, Healthcare, and E-Commerce ecosystems. Expert at building resilient cross-platform testing layers, specialized CI/CD execution grids, and cutting-edge agentic AI web testing modules.
 
 ---
@@ -14,20 +16,39 @@ An Enterprise QA Architect with 8+ years of technical experience engineering hig
 ## 🛠️ Deep Technical Stack & Skills
 
 ### 🧪 Test Automation & Core Engineering
-* **Web & UI Frameworks:** Playwright, Selenium WebDriver, Cypress, WebdriverIO, Puppeteer
-* **Mobile Test Architecture:** Appium (iOS & Android simulators/real devices)
-* **API Validation Layers:** RestAssured, Postman, Karate API, GraphQL, SoapUI
-* **Methodologies & Framework Design:** Page Object Model (POM), BDD Cucumber, Data-Driven Architectures, Keyword-Driven Testing
+![Playwright](https://shields.io)
+![Selenium](https://shields.io)
+![Cypress](https://shields.io)
+![WebdriverIO](https://shields.io)
+![Puppeteer](https://shields.io)
+![Appium](https://shields.io)
 
-### 💻 Development & Performance
-* **Core Runtime Languages:** TypeScript, JavaScript, Java, Python, SQL, HTML5
-* **Performance Testing:** JMeter, LoadRunner
-* **Databases:** PostgreSQL, MySQL, Oracle, MongoDB
+![RestAssured](https://shields.io)
+![Postman](https://shields.io)
+![Cucumber](https://shields.io)
+![JMeter](https://shields.io)
+
+### 💻 Development & Databases
+![TypeScript](https://shields.io)
+![JavaScript](https://shields.io)
+![Java](https://shields.io)
+![Python](https://shields.io)
+
+![PostgreSQL](https://shields.io)
+![MySQL](https://shields.io)
+![MongoDB](https://shields.io)
 
 ### ⚙️ QA Ops, Infrastructure & AI
-* **CI/CD Build Management:** Jenkins (Declarative Pipelines), GitHub Actions, Maven, Gradle
-* **AI Orchestration Tools:** LangChain Core, Model Context Protocol (MCP)
-* **Ecosystem Tools:** Git, GitHub, Docker, Kubernetes, Jira, TestRail, Zephyr, AWS
+![Jenkins](https://shields.io)
+![GitHub Actions](https://shields.io)
+![Docker](https://shields.io)
+![Kubernetes](https://shields.io)
+![AWS](https://shields.io)
+
+![LangChain](https://shields.io)
+![Ollama](https://shields.io)
+![Git](https://shields.io)
+![Jira](https://shields.io)
 
 ---
 
@@ -38,7 +59,7 @@ An enterprise architectural sample connecting browser engines directly to locali
 * **Tech Stack:** TypeScript, Playwright, LangChain Core, Ollama (`qwen2.5-coder:7b`)
 * **Execution Grid:** Headless Jenkins Pipeline integration with automatic artifact archiving layers.
 
-### 🥒 [Cucumber BDD Java Test Framework](https://github.com/divijqa/CucumberBDD)
+### 🥒 [Cucumber BDD Java Test Framework](https://github.com)
 A production-ready Behavior-Driven Development framework using structured step-definitions and modular runner patterns.
 * **Tech Stack:** Java, Selenium WebDriver, Cucumber BDD, TestNG, Maven
 
@@ -53,7 +74,7 @@ A production-ready Behavior-Driven Development framework using structured step-d
 ---
 
 ## 🤝 Let's Collaborate!
-* **LinkedIn:** [linkedin.com/in/divij-m](https://www.linkedin.com/in/divij-m-05a835135)
-* **GitHub Profile:** [github.com/divijqa](https://github.com/divijqa)
+* **LinkedIn:** [://linkedin.com](https://linkedin.com)
+* **GitHub Profile:** [://github.com](https://://github.com)
 
-*⭐ Designed with precision to engineering scalable quality assurance ecosystems.*
+*⭐ Designed with precision to engineer scalable quality assurance ecosystems.*
