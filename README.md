@@ -2,7 +2,7 @@
 
 ### Software Development Engineer in Test (SDET) | Automation Engineer 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divij-mothe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divij-m/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divijqa)
 
 An Enterprise QA SDET with 10 years of technical experience engineering high-throughput automation infrastructures across Financial Services, Healthcare, and E-Commerce ecosystems. Expert at building resilient cross-platform testing layers, specialized CI/CD execution grids, and cutting-edge agentic AI web testing modules.
