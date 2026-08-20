@@ -5,13 +5,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divij-m/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divijqa)
 
-An Enterprise QA SDET with 10 years of technical experience engineering high-throughput automation infrastructures across Financial Services, Healthcare, and E-Commerce ecosystems. Expert at building resilient cross-platform testing layers, specialized CI/CD execution grids, and cutting-edge agentic AI web testing modules.
+An Enterprise QA SDET with 10 years of technical experience engineering high-throughput automation infrastructures across Financial Services, Healthcare, and E-Commerce ecosystems. Expert at building [...]
 
 ---
 
 ## 🏢 Core Architectural Highlight
 
-* 🧠 **Featured System:** **Autonomous Playwright AI Agent** — A zero-token-cost testing infrastructure integrating [Playwright](https://playwright.dev) with localized LLM core parameters ([Ollama](https://ollama.com) `qwen2.5-coder`) to interpret runtime layouts, bypass complex corporate firewalls headlessly, and execute self-healing test automation scripts.
+* 🧠 **Featured System:** **Autonomous Playwright AI Agent** — A zero-token-cost testing infrastructure integrating [Playwright](https://playwright.dev) with localized LLM core parameters ([Ollama[...]
 * ⚙️ **QA Ops Strategy:** Seamlessly orchestrating test assets within self-hosted, open-source instances of **Jenkins CI/CD** with automated background runtime evaluations.
 
 ---
@@ -58,6 +58,11 @@ An Enterprise QA SDET with 10 years of technical experience engineering high-thr
 An enterprise architectural sample connecting browser engines directly to localized large language models for self-healing functional user journeys.
 * **Tech Stack:** TypeScript, Playwright, LangChain Core, Ollama (`qwen2.5-coder:7b`)
 * **Execution Grid:** Headless Jenkins Pipeline integration with automatic artifact archiving layers.
+
+### 🎭 [Playwright MCP Self-Healing BDD Framework (POC)](https://github.com/divijqa/playwright-mcp-poc)
+A proof-of-concept demonstrating autonomous self-healing web automation using the Model Context Protocol. Replaces brittle selectors with dynamic accessibility-tree-based page state inspection and intelligent recovery routing.
+* **Tech Stack:** TypeScript, Playwright, Cucumber BDD, Model Context Protocol (MCP)
+* **Architecture:** Gherkin feature definitions → MCP accessibility analysis → Dynamic state dispatcher for flaky edge cases.
 
 ### 🥒 [Cucumber BDD Java Test Framework](https://github.com/divijqa)
 A production-ready Behavior-Driven Development framework using structured step-definitions and modular runner patterns.
