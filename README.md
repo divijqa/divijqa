@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divij-m/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divijqa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://divijqa.github.io/)
 
 An Enterprise QA SDET with 10 years of technical experience engineering high-throughput automation infrastructures across Financial Services, Healthcare, and E-Commerce ecosystems. Expert at building [...]
 
@@ -65,10 +66,10 @@ A proof-of-concept demonstrating autonomous self-healing web automation using th
 * **Architecture:** Gherkin feature definitions → MCP accessibility analysis → Dynamic state dispatcher for flaky edge cases.
 
 ### 🌐 [Spring Boot RestAssured MCP Proof of Concept](https://github.com/divijqa/springboot-restassured-mcp-poc)
-An innovative enterprise-grade API testing framework combining Spring Boot backend services with structured REST API automation using the Model Client Pattern (MCP). Demonstrates sophisticated abstractions for API contract testing and reusable test architecture.
+An innovative enterprise-grade API testing framework combining Spring Boot backend services with structured REST API automation using the Model Client Pattern (MCP). Demonstrates sophisticated abstrac[...]
 * **Tech Stack:** Java 17, Spring Boot, Rest Assured, JUnit 5, Maven
-* **Architecture:** BaseMCPClient abstraction layer → ProductMCPClient encapsulation → Domain-driven test operations with centralized HTTP configuration, automatic request/response logging, and authorization header management.
-* **Key Features:** Model Client Pattern abstractions eliminate code duplication, structured API testing against dynamic server ports, seamless integration test execution, and a clear roadmap extending from POC to production-ready framework with data-driven testing and AI/MCP tool integration.
+* **Architecture:** BaseMCPClient abstraction layer → ProductMCPClient encapsulation → Domain-driven test operations with centralized HTTP configuration, automatic request/response logging, and au[...]
+* **Key Features:** Model Client Pattern abstractions eliminate code duplication, structured API testing against dynamic server ports, seamless integration test execution, and a clear roadmap extendin[...]
 
 ### 🥒 [Cucumber BDD Java Test Framework](https://github.com/divijqa)
 A production-ready Behavior-Driven Development framework using structured step-definitions and modular runner patterns.
@@ -89,5 +90,6 @@ A production-ready Behavior-Driven Development framework using structured step-d
 
 * **LinkedIn:** [https://www.linkedin.com/in/divij-m/](https://www.linkedin.com/in/divij-m/)
 * **GitHub:** [https://github.com/divijqa](https://github.com/divijqa)
+* **Portfolio:** [https://divijqa.github.io/](https://divijqa.github.io/)
 
 *⭐ Designed with precision to engineer scalable quality assurance ecosystems.*
