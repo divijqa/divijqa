@@ -60,9 +60,15 @@ An enterprise architectural sample connecting browser engines directly to locali
 * **Execution Grid:** Headless Jenkins Pipeline integration with automatic artifact archiving layers.
 
 ### 🎭 [Playwright MCP Self-Healing BDD Framework (POC)](https://github.com/divijqa/playwright-mcp-poc)
-A proof-of-concept demonstrating autonomous self-healing web automation using the Model Context Protocol. Replaces brittle selectors with dynamic accessibility-tree-based page state inspection and intelligent recovery routing.
+A proof-of-concept demonstrating autonomous self-healing web automation using the Model Context Protocol. Replaces brittle selectors with dynamic accessibility-tree-based page state inspection and int[...]
 * **Tech Stack:** TypeScript, Playwright, Cucumber BDD, Model Context Protocol (MCP)
 * **Architecture:** Gherkin feature definitions → MCP accessibility analysis → Dynamic state dispatcher for flaky edge cases.
+
+### 🌐 [Spring Boot RestAssured MCP Proof of Concept](https://github.com/divijqa/springboot-restassured-mcp-poc)
+An innovative enterprise-grade API testing framework combining Spring Boot backend services with structured REST API automation using the Model Client Pattern (MCP). Demonstrates sophisticated abstractions for API contract testing and reusable test architecture.
+* **Tech Stack:** Java 17, Spring Boot, Rest Assured, JUnit 5, Maven
+* **Architecture:** BaseMCPClient abstraction layer → ProductMCPClient encapsulation → Domain-driven test operations with centralized HTTP configuration, automatic request/response logging, and authorization header management.
+* **Key Features:** Model Client Pattern abstractions eliminate code duplication, structured API testing against dynamic server ports, seamless integration test execution, and a clear roadmap extending from POC to production-ready framework with data-driven testing and AI/MCP tool integration.
 
 ### 🥒 [Cucumber BDD Java Test Framework](https://github.com/divijqa)
 A production-ready Behavior-Driven Development framework using structured step-definitions and modular runner patterns.
