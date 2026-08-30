@@ -6,13 +6,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divijqa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://divijqa.github.io/)
 
-An Enterprise QA SDET with 10 years of technical experience engineering high-throughput automation infrastructures across Financial Services, Healthcare, and E-Commerce ecosystems. Expert at building [...]
+An Enterprise QA SDET with 10 years of technical experience engineering high-throughput automation infrastructures across Financial Services, Healthcare, and E-Commerce ecosystems. Expert at building scalable test automation frameworks, CI/CD pipelines, and AI-assisted quality engineering solutions.
 
 ---
 
 ## 🏢 Core Architectural Highlight
 
-* 🧠 **Featured System:** **Autonomous Playwright AI Agent** — A zero-token-cost testing infrastructure integrating [Playwright](https://playwright.dev) with localized LLM core parameters ([Ollama[...]
+* 🧠 **Featured System:** **Autonomous Playwright AI Agent** — A zero-token-cost testing infrastructure integrating [Playwright](https://playwright.dev) with localized LLM core parameters ([Ollama](https://ollama.com)).
 * ⚙️ **QA Ops Strategy:** Seamlessly orchestrating test assets within self-hosted, open-source instances of **Jenkins CI/CD** with automated background runtime evaluations.
 
 ---
@@ -61,17 +61,17 @@ An enterprise architectural sample connecting browser engines directly to locali
 * **Execution Grid:** Headless Jenkins Pipeline integration with automatic artifact archiving layers.
 
 ### 🎭 [Playwright MCP Self-Healing BDD Framework (POC)](https://github.com/divijqa/playwright-mcp-poc)
-A proof-of-concept demonstrating autonomous self-healing web automation using the Model Context Protocol. Replaces brittle selectors with dynamic accessibility-tree-based page state inspection and [...]
+A proof-of-concept demonstrating autonomous self-healing web automation using the Model Context Protocol. Replaces brittle selectors with dynamic accessibility-tree-based page state inspection and [..[...]
 * **Tech Stack:** TypeScript, Playwright, Cucumber BDD, Model Context Protocol (MCP)
 * **Architecture:** Gherkin feature definitions → MCP accessibility analysis → Dynamic state dispatcher for flaky edge cases.
 
 ### 🌐 [Spring Boot RestAssured MCP Proof of Concept](https://github.com/divijqa/springboot-restassured-mcp-poc)
-An innovative enterprise-grade API testing framework combining Spring Boot backend services with structured REST API automation using the Model Client Pattern (MCP). Demonstrates sophisticated abstractions [...]
+An innovative enterprise-grade API testing framework combining Spring Boot backend services with structured REST API automation using the Model Client Pattern (MCP). Demonstrates sophisticated abstrac[...]
 * **Tech Stack:** Java 17, Spring Boot, Rest Assured, JUnit 5, Maven
-* **Architecture:** BaseMCPClient abstraction layer → ProductMCPClient encapsulation → Domain-driven test operations with centralized HTTP configuration, automatic request/response logging, and [...]
-* **Key Features:** Model Client Pattern abstractions eliminate code duplication, structured API testing against dynamic server ports, seamless integration test execution, and a clear roadmap extending [...]
+* **Architecture:** BaseMCPClient abstraction layer → ProductMCPClient encapsulation → Domain-driven test operations with centralized HTTP configuration, automatic request/response logging, and [.[...]
+* **Key Features:** Model Client Pattern abstractions eliminate code duplication, structured API testing against dynamic server ports, seamless integration test execution, and a clear roadmap extendin[...] 
 
-### 🥒 [Cucumber BDD Java Test Framework](https://github.com/divijqa)
+### 🥒 [Cucumber BDD Java Test Framework](https://github.com/divijqa/CucumberBDD)
 A production-ready Behavior-Driven Development framework using structured step-definitions and modular runner patterns.
 * **Tech Stack:** Java, Selenium WebDriver, Cucumber BDD, TestNG, Maven
 
