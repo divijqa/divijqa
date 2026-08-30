@@ -1,10 +1,10 @@
 # Hi, I'm Divij Mothe
 
-### SR SDET | QA | AI Test Engineer
+### Sr SDET | QA | Exploring AI & Agentic QA
 
 [LinkedIn](https://www.linkedin.com/in/divijmothe/) • [GitHub](https://github.com/divijqa) • [Portfolio](https://divijqa.github.io/)
 
-I’m an enterprise QA SDET with 10 years of experience building automation across financial services, healthcare, and e-commerce. I focus on reliable test automation, strong engineering practices, and AI-assisted testing.
+I’m an enterprise QA SDET with 10 years of experience building automation across financial services, healthcare, and e-commerce. I focus on reliable test automation, strong engineering practices, and exploring how AI and agentic workflows can improve modern QA.
 
 ---
 
