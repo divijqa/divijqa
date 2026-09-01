@@ -98,6 +98,7 @@ Comprehensive Java-based BDD framework leveraging Selenium, Cucumber, TestNG, an
 - Secondary interests: TypeScript, JavaScript, Playwright, Selenium  
 - Focus: UI automation, API testing, CI/CD, framework design
 - QA Operations: https://github.com/divijqa/QA-Ops-Docs
+- SDET Best Practices: https://github.com/divijqa/sdet-engineering-practices
 
 </details>
 
