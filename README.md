@@ -19,6 +19,7 @@ I'm a **Senior SDET with 10+ years of experience (2016–2026)** specializing in
 - ⚙️ CI/CD-driven test execution and orchestration  
 - 🐛 Flakiness reduction and reliability optimization  
 - 📐 Clean, maintainable, and reusable framework design  
+- ✅ Quality assurance mindset focused on preventing defects and enabling confident releases  
 
 </details>
 
