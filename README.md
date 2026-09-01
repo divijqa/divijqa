@@ -96,7 +96,8 @@ Comprehensive Java-based BDD framework leveraging Selenium, Cucumber, TestNG, an
 - GitHub profile: https://github.com/divijqa  
 - Primary language: Java  
 - Secondary interests: TypeScript, JavaScript, Playwright, Selenium  
-- Focus: UI automation, API testing, CI/CD, framework design  
+- Focus: UI automation, API testing, CI/CD, framework design
+- QA Operations: https://github.com/divijqa/QA-Ops-Docs
 
 </details>
 
