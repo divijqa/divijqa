@@ -11,7 +11,7 @@ Automation • UI + API • CI/CD • Playwright • Selenium • Cucumber | *10
 
 <br/>
 
-I'm a **Senior SDET with 10+ years of experience (2016–2026)** specializing in designing and maintaining scalable automation frameworks across UI, API, and end-to-end testing. I'm passionate about building reliable test systems that improve speed, stability, and confidence in delivery.
+I'm a **Senior SDET with 10+ years of experience (2016–2026)** specializing in designing and maintaining scalable automation frameworks across UI, API, and end-to-end testing. I'm passionate about b[...] 
 
 **Key Focus Areas:**
 - 🎯 Scalable UI automation frameworks  
@@ -96,9 +96,8 @@ Comprehensive Java-based BDD framework leveraging Selenium, Cucumber, TestNG, an
 - GitHub profile: https://github.com/divijqa  
 - Primary language: Java  
 - Secondary interests: TypeScript, JavaScript, Playwright, Selenium  
-- Focus: UI automation, API testing, CI/CD, framework design
-- QA Operations: https://github.com/divijqa/QA-Ops-Docs
-- SDET Best Practices: https://github.com/divijqa/sdet-engineering-practices
+- Focus: UI automation, API testing, CI/CD, framework design  
+- **Core Highlights:** [QA Operations](https://github.com/divijqa/QA-Ops-Docs) • [SDET Best Practices](https://github.com/divijqa/sdet-engineering-practices)
 
 </details>
 
