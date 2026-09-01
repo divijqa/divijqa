@@ -1,6 +1,8 @@
-# Senior Software Development Engineer in Test (SDET)
+# 👋 Divij Mothe
 
-Automation • UI + API • CI/CD • Playwright • Selenium • Cucumber
+**Senior Software Development Engineer in Test (SDET)**
+
+Automation • UI + API • CI/CD • Playwright • Selenium • Cucumber | *10+ Years of Experience*
 
 ---
 
@@ -9,15 +11,14 @@ Automation • UI + API • CI/CD • Playwright • Selenium • Cucumber
 
 <br/>
 
-I’m a **Senior SDET with 10+ years of experience (2016–2026)** designing and maintaining automation frameworks across UI, API, and end‑to‑end testing.
+I'm a **Senior SDET with 10+ years of experience (2016–2026)** specializing in designing and maintaining scalable automation frameworks across UI, API, and end-to-end testing. I'm passionate about reducing test flakiness, improving reliability, and building maintainable, high-performance testing solutions.
 
-I focus on:
-
-- Scalable UI automation  
-- API validation and integration testing  
-- CI/CD‑driven test execution  
-- Reducing flakiness and improving reliability  
-- Clean, maintainable framework design  
+**Key Focus Areas:**
+- 🎯 Scalable UI automation frameworks  
+- 🔌 API validation and integration testing  
+- ⚙️ CI/CD-driven test execution and orchestration  
+- 🐛 Flakiness reduction and reliability optimization  
+- 📐 Clean, maintainable, and reusable framework design  
 
 </details>
 
@@ -28,8 +29,8 @@ I focus on:
 
 <br/>
 
-### Playwright + Local LLM Experiment  
-Exploring how Playwright can interact with local LLMs (Ollama) to improve test adaptability and reduce flakiness.
+### Playwright + Local LLM Integration  
+Exploring innovative approaches to integrate Playwright with local LLMs (Ollama) to enhance test adaptability, reduce flakiness, and enable intelligent test automation.
 
 **Tech Stack:**  
 TypeScript · Playwright · LangChain · Ollama  
@@ -39,22 +40,22 @@ TypeScript · Playwright · LangChain · Ollama
 ---
 
 <details>
-  <summary><b>🛠️ Skills & Tools (Senior Level)</b></summary>
+  <summary><b>🛠️ Technical Skills</b></summary>
 
 <br/>
 
-### Automation
+**Automation & Testing Frameworks**
 - Playwright  
 - Selenium WebDriver  
 - Cucumber BDD  
 - TestNG  
 
-### Languages
+**Programming Languages**
 - Java  
 - TypeScript  
 - JavaScript  
 
-### Tools & Platforms
+**Tools & CI/CD Platforms**
 - Jenkins  
 - GitHub Actions  
 - Postman  
@@ -71,16 +72,16 @@ TypeScript · Playwright · LangChain · Ollama
 <br/>
 
 ### Playwright Local LLM Agent (Experimental)  
-Sample project connecting Playwright with a local LLM to explore adaptive testing and smarter test flows.
+Advanced project integrating Playwright with local LLM capabilities to explore adaptive testing strategies and intelligent test flow automation.
 
-**Tech:** TypeScript · Playwright · LangChain · Ollama  
+**Tech Stack:** TypeScript · Playwright · LangChain · Ollama  
 
 ---
 
 ### Cucumber BDD Java Test Framework  
-Structured Java BDD framework using Selenium, Cucumber, TestNG, and Maven for UI automation.
+Comprehensive Java-based BDD framework leveraging Selenium, Cucumber, TestNG, and Maven for robust UI automation and test organization.
 
-**Tech:** Java · Selenium · Cucumber · TestNG · Maven  
+**Tech Stack:** Java · Selenium · Cucumber · TestNG · Maven  
 
 </details>
 
@@ -99,14 +100,20 @@ Structured Java BDD framework using Selenium, Cucumber, TestNG, and Maven for UI
 ---
 
 <details>
-  <summary><b>🔗 Portfolio & Contact</b></summary>
+  <summary><b>🔗 Connect With Me</b></summary>
 
 <br/>
 
-**Portfolio:** https://divijqa.github.io  
-
-**GitHub:** https://github.com/divijqa  
-
-**LinkedIn:** https://www.linkedin.com/in/divij-m/  
+- **Portfolio:** https://divijqa.github.io  
+- **GitHub:** https://github.com/divijqa  
+- **LinkedIn:** https://www.linkedin.com/in/divij-m/  
 
 </details>
+
+---
+
+<div align="center">
+
+*Passionate about testing excellence, automation innovation, and building frameworks that scale.*
+
+</div>
