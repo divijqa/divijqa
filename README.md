@@ -2,7 +2,7 @@
 
 **Senior Software Development Engineer in Test (SDET)**
 
-Automation • UI + API • CI/CD • Playwright • Selenium • Cucumber | *10 Years of Experience*
+UI + API • CI/CD • Automation • Playwright • Selenium • Cucumber | *10 Years of Experience*
 
 ---
 
