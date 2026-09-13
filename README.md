@@ -128,7 +128,7 @@ Comprehensive Java-based BDD framework leveraging Selenium, Cucumber, TestNG, an
       <strong>Beyond the Hype: Practical Strategies for Implementing AI in Software Testing</strong><br />
       How to move from AI hype to execution. This article explores the architecture and mindset shift needed when implementing intelligent automation tools (like Playwright, LangChain, and Ollama) into production test suites.
       <br /><br />
-      <a href="[https://medium.com](https://medium.com/@divijreddy.mothe/beyond-the-hype-practical-strategies-for-implementing-ai-in-software-testing-4460363799ef)"><strong>Read Article ↗</strong></a>
+      <a href="https://medium.com/@divijreddy.mothe/beyond-the-hype-practical-strategies-for-implementing-ai-in-software-testing-4460363799ef"><strong>Read Article ↗</strong></a>
     </td>
   </tr>
 </table>
