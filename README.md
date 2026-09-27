@@ -4,6 +4,8 @@
 
 UI + API • CI/CD • Automation • Playwright • Selenium • Cucumber | *10 Years of Experience*
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?logo=vercel)](https://dynamic-qa-dashboard.vercel.app/)
+
 ---
 
 <details>
@@ -30,11 +32,15 @@ I'm a **Senior SDET with 10+ years of experience (2016–2026)** specializing in
 
 <br/>
 
-### Playwright + Local LLM Integration  
+### Playwright + Local LLM Integration (Experiment)  
 Exploring innovative approaches to integrate Playwright with local LLMs (Ollama) to enhance test adaptability, reduce flakiness, and enable intelligent test automation.
 
 **Tech Stack:**  
 TypeScript · Playwright · LangChain · Ollama  
+
+### QA Dynamic Dashboard (Current Work)  
+Building and iterating on **[dynamic-qa-dashboard](https://github.com/divijqa/dynamic-qa-dashboard)** to visualize QA metrics and workflows in a concise, interactive format.  
+**Demo:** https://dynamic-qa-dashboard.vercel.app/
 
 </details>
 
